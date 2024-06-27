@@ -18,4 +18,5 @@ The script outputs the following key results to assess the model's performance a
 
 * **F1-score:**  **0.5342**. This metric indicates a good balance between precision and recall in predicting loan defaults.
 * **Demographic Parity Ratio (DPR) for Gender:** **0.9799**. This value close to 1 signifies a high level of fairness achieved by the model. In simpler terms, the model predicts loan defaults at similar rates for both genders, mitigating potential gender bias.
+
 The predictions of the model are stored [here](https://github.com/Dream-Falls/Enigma/blob/main/submission.csv).
